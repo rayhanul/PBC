@@ -1,0 +1,12 @@
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\bin\Debug\PBC.exe.config
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\bin\Debug\PBC.exe
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\bin\Debug\PBC.pdb
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\obj\Debug\PBC.exe
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\obj\Debug\PBC.pdb
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\obj\Debug\PBC.csprojResolveAssemblyReference.cache
+C:\Users\xman\Copy\R\thesis\package Based\packageBasedImplementation\PBC\PBC\bin\Debug\PBC.exe.config
+C:\Users\xman\Copy\R\thesis\package Based\packageBasedImplementation\PBC\PBC\obj\Debug\PBC.exe
+C:\Users\xman\Copy\R\thesis\package Based\packageBasedImplementation\PBC\PBC\obj\Debug\PBC.pdb
+C:\Users\xman\Copy\R\thesis\package Based\packageBasedImplementation\PBC\PBC\bin\Debug\PBC.exe
+C:\Users\xman\Copy\R\thesis\package Based\packageBasedImplementation\PBC\PBC\bin\Debug\PBC.pdb
+C:\Users\xman\Copy\R\thesis\package Based\packageBasedImplementation\PBC\PBC\obj\Debug\PBC.csprojResolveAssemblyReference.cache
